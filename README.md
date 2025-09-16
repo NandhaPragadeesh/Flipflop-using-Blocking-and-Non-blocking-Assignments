@@ -203,7 +203,7 @@ JK FF:
 <img width="1633" height="1098" alt="Screenshot 2025-09-16 201417" src="https://github.com/user-attachments/assets/7ce07292-fb38-4c32-a76c-e6a8b51b5de4" />
 
 Conclusion:
-```
+
 We successfully implemented and verified D, SR, T, and JK flip-flops using Verilog HDL in Xilinx Vivado.
 Design Implementation:
 Each flip-flop (D, SR, T, JK) was written as a synthesizable Verilog module, following standard sequential logic behavior.
@@ -217,4 +217,3 @@ T Flip-Flop: Output toggled on each clock pulse when T=1, and held state when T=
 JK Flip-Flop: Verified all four combinations of J and K, including toggling when J=K=1.
 
 This exercise helped in understanding sequential circuit behavior, clocked logic design, and testbench-driven verification.
-```
